@@ -1,0 +1,18 @@
+{
+  "name": "gpull",
+  "version": "0.0.1",
+  "description": "Actually git pull!",
+  "repository": "https://github.com/ZibanPirate/gpull.git",
+  "author": {
+    "email": "contact@zakiii.com",
+    "name": "Zakaria Mansouri",
+    "url": "https://www.zakiii.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "gpull": "bin/git-pull.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
