@@ -2,7 +2,7 @@
 
 Actually git pull!
 
-git doesn't have a `git push -f` command, **gpull** is created for this exact purpose.
+git doesn't have a `git pull -f` command, **gpull** is created for this exact purpose.
 
 # install
 
